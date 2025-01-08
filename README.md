@@ -1,6 +1,3 @@
-Aquí tienes el contenido en formato **Markdown** para el README del ejercicio 3:
-
-```markdown
 # Exercise_ContactsMongo
 
 Este proyecto utiliza **Mongoose** para conectar y trabajar con una base de datos MongoDB llamada `contacts`. Implementa varias operaciones CRUD (Crear, Leer, Actualizar, Eliminar) dependiendo de un parámetro adicional pasado al ejecutar la aplicación.
